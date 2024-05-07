@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
+```
 <div style="width: 430px; height: 932px; position: relative; background:white">
   <img style="width: 430px; height: 909px; left: 0px; top: 23px; position: absolute" src="https://via.placeholder.com/430x909" />
   <div style="width: 420px; height: 66px; left: 18px; top: 445px; position: absolute; color: black; font-size: 48px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">TECHNICAL EVENT</div>
@@ -73,7 +73,7 @@ Figma
   <div style="width: 382px; height: 593px; left: 38px; top: 254px; position: absolute; color: black; font-size: 48px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">THANK YOU FOR REGISTERING </div>
   <div style="width: 369px; height: 32px; left: 51px; top: 565px; position: absolute; color: #71E814; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">WE ARE EXCITED TO HAVE YOU ON BOARD</div>
 </div>
-
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (43).png>)
